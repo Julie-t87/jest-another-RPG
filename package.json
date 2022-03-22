@@ -1,0 +1,30 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg",
+  "main": "just-another-rpg",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julie-t87/jest-another-RPG.git"
+  },
+  "keywords": [
+    "oop",
+    "and",
+    "TDD"
+  ],
+  "author": "Julie Taukei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julie-t87/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Julie-t87/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
